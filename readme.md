@@ -53,10 +53,10 @@ I have created the following pages:
 ![signip](/assests/screenshots/signin.jpeg)
 
 **User Created and saved in Database:**
-![User](/assests/screenshots/databasess.png)
+![User](/assests/screenshots/databasess.PNG)
 
 **User2 Created and saved in Database:**
-![User](/assests/screenshots/databasess2.png)
+![User](/assests/screenshots/databasess2.PNG)
 
 **Homepage:**
 ![Homepage](/assests/screenshots/home.png)
