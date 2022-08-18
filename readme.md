@@ -50,19 +50,25 @@ I have created the following pages:
 ![signup](/assests/screenshots/signup-incomplete.jpeg)
 
 **Sign in:**
-![signup](/assests/screenshots/signin.jpeg)
+![signip](/assests/screenshots/signin.jpeg)
+
+**User Created and saved in Database:**
+![User](/assests/screenshots/databasess.png)
+
+**User2 Created and saved in Database:**
+![User](/assests/screenshots/databasess2.png)
 
 **Homepage:**
-![signup](/assests/screenshots/home.png)
+![Homepage](/assests/screenshots/home.png)
 
 **Contact Us: Incomplete**
-![signup](/assests/screenshots/contactus-incomplete.png)
+![Contact](/assests/screenshots/contactus-incomplete.png)
 
 **Contact Us: Complete**
-![signup](/assests/screenshots/complete-contact.png)
+![Contact](/assests/screenshots/complete-contact.png)
 
 **About Us**
-![signup](/assests/screenshots/aboutus.png)
+![About](/assests/screenshots/aboutus.png)
 
 **After Signing out**
-![signup](/assests/screenshots/aftersignout.png)
+![SigningOut](/assests/screenshots/aftersignout.png)
